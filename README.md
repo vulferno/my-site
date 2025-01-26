@@ -1,2 +1,2 @@
 My very simple site to show my links.
-Will eventually add projects on there but this will be it for the time being.
+I'll eventually add projects, but this will do for the time being.
