@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0; /* Remove default body margin */
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    width: 100%; /* Full width for responsiveness */
+    padding: 1em; /* Add padding for smaller screens */
+    box-sizing: border-box; /* Include padding in total width/height */
+}
+
+.centered-div {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center; /* Center text inside h1 */
+}
+
+a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: white;
+}
+
+P{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    font-weight: 600;
+}
